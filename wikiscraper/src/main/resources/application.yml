@@ -1,5 +1,0 @@
-
-scraper:
-  remote:
-    url: https://en.wikipedia.org/wiki/Heidenheim_an_der_Brenz
-  timeout: 2000

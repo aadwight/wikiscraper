@@ -1,0 +1,22 @@
+
+This project was completed as a coding exercise.
+
+The project requirements can be found in requirements.txt.
+
+I spent about 2 hours on this.
+
+  00:00 -   10:00: thinking about problem
+  10:00 -   20:00: project setup & boilerplate
+  20:00 - 1:20:00: scraping website
+1:20:00 - 1:45:00: implemented API
+1:45:00 - 2:00:00: cleanup and documentation
+
+These are some of the things I would do for a real project if I were to spend more time:
+
+- Implement security
+- Store values in a db instead of in memory
+- Handle errors more gracefully
+- Better documentation
+- More endpoints
+- Better unit tests
+- Consider alternatives to JSoup
